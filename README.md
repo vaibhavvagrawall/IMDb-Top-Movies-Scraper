@@ -1,21 +1,6 @@
-````markdown
 # IMDb Top Movies Scraper
 
-A Python-based web scraping project that extracts movie information from IMDb Top Rated Movies using Selenium, BeautifulSoup, and Requests.
-
-The project collects:
-- Movie rankings
-- Titles
-- Release years
-- IMDb ratings
-- Directors
-- Writers
-- Stars
-- Genres
-- Countries
-- Languages
-
-and exports the data into CSV files for analysis.
+A Python-based web scraping project that extracts movie information from IMDb Top Rated Movies using Selenium, BeautifulSoup, and Requests and exports the data into CSV files for analysis.
 
 ---
 
@@ -81,30 +66,9 @@ and exports the data into CSV files for analysis.
 
 ---
 
-## Learning Outcomes
-
-This project helped in understanding:
-
-* Web scraping concepts
-* HTML parsing
-* Dynamic website scraping
-* Data extraction pipelines
-* CSV file handling
-* HTTP requests
-* Automation using Selenium
-
----
-
 ## Disclaimer
 
 This project is created for educational purposes only.
 All data belongs to IMDb.
 
 ---
-
-## Author
-
-Vaibhav Agrawal
-
-```
-```
