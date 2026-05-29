@@ -70,5 +70,3 @@ A Python-based web scraping project that extracts movie information from IMDb To
 
 This project is created for educational purposes only.
 All data belongs to IMDb.
-
----
